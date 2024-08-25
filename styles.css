@@ -1,0 +1,35 @@
+* {
+  font-family: "Urbanist", Sans-serif;
+
+}
+
+.font1_3 {
+    font-size: 1.3rem;
+}
+
+#slider {
+    overflow: hidden;
+}
+
+.tab-content {
+	display:none;
+}
+
+
+#navbar {
+    position: absolute;
+    background-color: hsl(0 100% 100% / 0.1);
+	width: 95%;
+}
+
+.modal h3{
+	font-weight: bold;
+}
+
+.modal h2{
+	font-weight: bolder;
+}
+
+.modal p{
+	padding-left: 1.5rem;
+}
